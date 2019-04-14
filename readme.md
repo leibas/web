@@ -7,13 +7,14 @@
 ## Project subject
 > Selling collection and luxury cars
 ## Project description
-> My project will contain 3 main folders:
-    Upload - for new cars
-    Searching - for client to find the car they want
+> My project will contain 3 main folders:<br/>
+    Upload - for new cars<br/>
+    Searching - for client to find the car they want<br/>
     Buying - to buy the car
 ## Versions Log
  This section needs to be updated as you develop your project
 
 **Versions:**
 *1.0.0*
-- Initial project structure 
+- Initial project structure
+    - Added index.html
