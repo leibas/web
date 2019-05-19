@@ -1,8 +1,9 @@
 # WEB Project 2019 Semester B - BGU
 **Author: Saar Leiba**
+
 **Repository: 
-[http://github.com/leibas/web](http://github.com/leibas/web)*
-*
+[http://github.com/leibas/web](http://github.com/leibas/web)**
+
 **Version: 1.0**
 ## Project subject
 > Selling collection and luxury cars
